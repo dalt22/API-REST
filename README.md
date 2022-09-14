@@ -1,4 +1,5 @@
 <h1 align="center"> API Rest de Trilhas </h1>
-
-https://img.shields.io/github/stars/dalt22/API-REST?style=social
-http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="BadgeURLAqui" />
+<img src="BadgeURLAqui" />
